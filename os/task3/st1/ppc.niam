@@ -1,0 +1,239 @@
+}
+;0 nruter    
+
+}    
+;'n\' << )(tahw.e << rrec::dts        
+{    
+)e& noitpecxe::dts tsnoc( hctac    
+}    
+;)tratShtaPnoitanitsed ,tratShtaPlanigiro(esrever        
+
+;)tratShtaPnoitanitsed(riDekam        
+
+;"n\" << tratShtaPnoitanitsed << " :tratShtaPnoitanitsed" << tuoc::dts        
+;)tratShtaPnoitanitsed ,tratShtaPlanigiro(htaPdesreveRteg        
+;"" = tratShtaPnoitanitsed gnirts::dts        
+
+;"n\" << tratShtaPlanigiro << " :tratShtaPlanigiro" << tuoc::dts        
+;)tratShtaPlanigiro ,]1[vgra(htaPlanigirOteg        
+;"" = tratShtaPlanigiro gnirts::dts        
+
+;)"stnemugra hguone ton"(noitpecxEym worht            
+)2 < cgra( fi        
+{    
+yrt    
+{
+)vgra** rahc ,cgra tni(niam tni
+
+}
+}    
+;)emaNyrotceriDdesrever ,emaNyrotcerid + "/" + htaPlanigiro(esrever        
+;)emaNyrotceriDdesrever(riDekam        
+
+;emaNyrotceriDdesrever + "/" + htaPnoitanitsed = emaNyrotceriDdesrever        
+;)emaNyrotceriDdesrever ,emaNyrotcerid(rtSdesreveRteg        
+;"" = emaNyrotceriDdesrever gnirts::dts        
+{    
+)seirotcerid : emaNyrotcerid otua( rof    
+;)seirotcerid ,htaPlanigiro(seirotceriDteg    
+;seirotcerid >gnirts::dts<rotcev::dts    
+�иЀѾЂѺеЀѸд� �ѾЀѾвеЀѵП� //    
+
+;)seliFraluger ,htaPnoitanitsed ,htaPlanigiro(seliFdesreveResrever    
+;)seliFraluger ,htaPlanigiro(seliFralugeRteg    
+;seliFraluger >gnirts::dts<rotcev::dts    
+�олйаЄ� �ыѽЀяѻЃшѵЀ� �ѾЀѾвеЀѵП� //    
+{
+)htaPnoitanitsed& gnirts::dts tsnoc ,htaPlanigiro& gnirts::dts tsnoc(esrever diov
+htaPnoitanitsed �� �иЀѾЂѺеЀѸд� �� �ѻйаЄ� �ЋтуѽЀёѲеЀѵп� �ѵавЋсѸпаЗ� .)�иЀѾЂѺеЀѸд� �ѰЇюѻкв�( htaPlanigiro �кпап� �� �сѲ� �ѵавиЇѰЀѾвеЀѵП� //
+
+}
+{
+)seliFraluger& >gnirts::dts<rotcev::dts tsnoc ,htaPnoitanitsed& gnirts::dts tsnoc ,htaPlanigiro& gnirts::dts tsnoc(srirotceriDesrever diov
+htaPdesrever �ѸЀѾЂѺеЀѸд� �� riDlanigiro �иЀѾЂѺеЀѸд� �и� seliFraluger �и� �манеми� �� �голаЂѰк� �ЁѲ� �туѽЀѵвеЀѵП� //
+
+}
+;)yrotcerid(ridesolc    
+}    
+;)eman_d>-yrtne(kcab_hsup.seliFraluger            
+)))(rts_c.htaPtnerid(yrotceriDsi( fi        
+;"n\" << htaPtnerid << tuoc::dts //        
+;eman_d>-yrtne =+ htaPtnerid        
+;"/" =+ htaPtnerid        
+;)htap(htaPtnerid gnirts::dts        
+{    
+)rtpllun =! ))yrotcerid(riddaer = yrtne(( elihw    
+;yrtne* tnerid    
+
+;)"golatac eht gninepo rorre"(noitpecxEym worht        
+)rtpllun == yrotcerid( fi    
+;))(rts_c.htap(ridnepo = yrotcerid* RID    
+{
+)seliFraluger& >gnirts::dts<rotcev::dts ,htap& gnirts::dts tsnoc(seirotceriDteg diov
+)�иЀѾЂѺеЀѸд� �ѸмаЁ� �кЌѻоЂ� �неми� �стюѰЂѸЇс� �тсѵ� �Ђ� ,�Ѹн� �д� �Ђуѿ� �Ђёчу� �еб� �стюѰЂѸЇс� �неми�( htap �иЀѾЂѺеЀѸд� �� �оголаЂѰк� �неми� �ЁѲ� �тѸЇуѻоП� //
+
+}
+}    
+;)(esolc.eliFtuptuo        
+;)(esolc.eliFtupni        
+
+}        
+;)(pop.setyb            
+;)etyBpot(tup.eliFtuptuo            
+;)(pot.setyb = etyBpot rahc            
+{        
+))(ytpme.setyb!( elihw        
+;)etyb(hsup.setyb            
+))etyb(teg.eliFtupni( elihw        
+;etyb rahc        
+
+}        
+;)"elif nepo tonnac"(noitpecxEym worht            
+;)(esolc.eliFtupni            
+{        
+))(nepo_si.eliFtuptuo!( fi        
+;)yranib::soi::dts ,eliFdesreveRoThtap(eliFtuptuo maertsfo::dts        
+�лйаЄ� �гоЂуѽЀёѲеЀѵп� �иЂырѺЂў� //        
+
+;emaneliFdesrever =+ eliFdesreveRoThtap        
+;"/" =+ eliFdesreveRoThtap        
+;)htaPnoitanitsed(eliFdesreveRoThtap gnirts::dts        
+;)emaneliFdesrever ,emanelif(rtSdesreveRteg        
+;"" = emaneliFdesrever gnirts::dts        
+�лйаЄ� �гоЂуѽЀёѲеЀѵп� �д� �туџ� //        
+
+;)"elif nepo tonnac"(noitpecxEym worht            
+))(nepo_si.eliFtupni!( fi        
+;)yranib::soi::dts ,eliFlanigirOoThtap(eliFtupni maertsfi::dts        
+�лйаЄ� �гонЌѻанигиЀѾ� �иЂырѺЂў� //        
+
+;emanelif =+ eliFlanigirOoThtap        
+;"/" =+ eliFlanigirOoThtap        
+;)htaPlanigiro(eliFlanigirOoThtap gnirts::dts        
+�лйаЄ� �гонЌѻанигиЀѾ� �д� �туџ� //        
+{    
+)seliFraluger : emanelif gnirts::dts( rof    
+
+;setyb >rahc<kcats::dts    
+{
+)seliFraluger& >gnirts::dts<rotcev::dts tsnoc ,htaPnoitanitsed& gnirts::dts tsnoc ,htaPlanigiro& gnirts::dts tsnoc(seliFdesreveResrever diov
+)�воЂѹабоп�( �омижЀѵдоЁ� �� �неми� �Ѹ� �ѵавиЇѰЀѾвеЀѵп� �оЂэ� �Ѐѿ� ,htaPdesrever �ѸЀѾЂѺеЀѸд� �� riDlanigiro �иЀѾЂѺеЀѸд� �и� seliFraluger �и� �манеми� �� �ѻйаЄ� �ѵЃрѸпоК� //
+
+}
+;)yrotcerid(ridesolc    
+}    
+;)eman_d>-yrtne(kcab_hsup.seliFraluger            
+))htaPtnerid(eliFralugeRsi( fi        
+;"n\" << htaPtnerid << tuoc::dts //        
+;eman_d>-yrtne =+ htaPtnerid        
+;"/" =+ htaPtnerid        
+;)htap(htaPtnerid gnirts::dts        
+{    
+)rtpllun =! ))yrotcerid(riddaer = yrtne(( elihw    
+;yrtne* tnerid    
+
+;)"golatac eht gninepo rorre"(noitpecxEym worht        
+)rtpllun == yrotcerid( fi    
+;))(rts_c.htap(ridnepo = yrotcerid* RID    
+{
+)seliFraluger& >gnirts::dts<rotcev::dts ,htap& gnirts::dts tsnoc(seliFralugeRteg diov
+)�олйаЄ� �ѸмаЁ� �кЌѻоЂ� �неми� �стюѰЂѸЇс� �тсѵ� �Ђ� ,�Ѹн� �д� �Ђуѿ� �Ђёчу� �еб� �стюѰЂѸЇс� �неми�( htap �иЀѾЂѺеЀѸд� �� �олйаЄ� �ыѽЀяѻЃѳеЀ� �неми� �ЁѲ� �тѸЇуѻоП� //
+
+}
+;)edom_ts.ofnIelif(GERSI_S nruter    
+;)"rorre ofnIelif"(noitpecxEym worht        
+)0 =! )ofnIelif& ,)(rts_c.htap(tats( fi    
+;ofnIelif tats tcurts    
+{
+)htap& gnirts::dts tsnoc(eliFralugeRsi loob
+�ЋѽЀяѻЃѳеЀ� �йаЄ� �л� �стѵЏѻвЯ� //
+
+}
+}    
+;)"n\rorre ridkm"(noitpecxEym worht            
+esle        
+;)"stsixe ydaerla si yrotcerid"(noitpecxEym worht //        
+;"n\stsixe ydaerla si yrotcerid :gninraw" << rrec::dts            
+)TSIXEE == onrre( fi        
+{    
+)0 =! )7770 ,)(rts_c.htap(ridkm( fi    
+{
+)htap& gnirts::dts tsnoc(riDekam diov
+>�иЀѾЂѺеЀѸд� �овон� �инавзан�</>�туѿ� �иЉюуѲЂсѵЉус�< = htap �Ђуѿ� �п� �Ѻпап� �ёѰдзоС� //
+
+}
+;]i[htaPlanigiro =+ htaPdesrever     //    
+)i-- ;dIhsalStsal > i ;1 - neLhtaPlanigiro = i tni( rof //    
+;]i[htaPlanigiro =+ htaPdesrever     //    
+)i++ ;dIhsalStsal =< i ;0 = i tni( rof //    
+;htaPdesrever + )1 + dIhsalStsal ,0(rtsbus.htaPlanigiro = htaPdesrever    
+;)htaPdesrever ,)1 - dIhsalStsal - )(htgnel.htaPlanigiro ,1 + dIhsalStsal(rtsbus.htaPlanigiro(rtSdesreveRteg    
+;"" = htaPdesrever    
+
+}    
+;kaerb            
+)'/' == ]dIhsalStsal[htaPlanigiro( fi        
+{    
+)dIhsalStsal-- ;0 => dIhsalStsal ;( rof    
+;1 - neLhtaPlanigiro = dIhsalStsal tni    
+
+;)(htgnel.htaPlanigiro = neLhtaPlanigiro tni tsnoc    
+{
+)htaPdesrever& gnirts::dts ,htaPlanigiro& gnirts::dts tsnoc(htaPdesreveRteg diov
+�иЀѾЂѺеЀѸд� �енделЁѾп� �еинавзан� �ЋтуѽЀёѲеЀѵп� �� �н� ,htaPlanigiro �туѿ� htaPdesrever �� �ѵавЋсѸпаЗ� //
+
+}
+;rtSdesrever + c = rtSdesrever        
+)rtSlanigiro : c otua( rof    
+;"" = rtSdesrever    
+{
+)rtSdesrever& gnirts::dts ,rtSlanigiro& gnirts::dts tsnoc(rtSdesreveRteg diov
+rtSdesrever �� �ѵавЋсѸпаз� �� rtSlanigiro �ѺоЀтс� �ѵавиЇѰЀѾвеЀѵП� //
+
+}
+;)"yrotcerid tnerruc eht eb ton dluohs htap tupni"(noitpecxEym worht        
+)"." == htaPlanigiro( fi    
+
+;]i[htaPtupni =+ htaPlanigiro        
+)i++ ;neLhtaPtupni < i ;0 = i tni( rof    
+
+;--neLhtaPtupni        
+)'/' == ]1 - neLhtaPtupni[htaPtupni( fi    
+;)htaPtupni(nelrts = neLhtaPtupni tni    
+
+;)"yrotcerid a ton si htap tupni"(noitpecxEym worht        
+))htaPtupni(yrotceriDsi!( fi    
+
+;)"htap tupni ssecca tonnac"(noitpecxEym worht        
+)0 =! )KO_F ,htaPtupni(ssecca( fi    
+{
+)htaPlanigiro& gnirts::dts ,htaPtupni tsnoc* rahc tsnoc(htaPlanigirOteg diov
+�Іѽокв� '/' �еб� �туѿ� �ЋѽЌѻаЇѰнзи� �ЋѽЂѺеЀрѾк� htaPlanigiro �� �ѵавЋсѸпаЗ� //
+
+}
+;)edom_ts.ofnIelif(RIDSI_S nruter    
+;)"rorre ofnIelif"(noitpecxEym worht        
+)0 =! )ofnIelif& ,htap(tats( fi    
+�лйаЄ� �� �ѸІѰмЀѾЄѽИ� // ;ofnIelif tats tcurts    
+{
+)htap* rahc tsnoc(yrotceriDsi loob
+�окпап� �йаЄ� �л� �стѵЏѻвЯ� //
+
+;}
+} ;_gsm nruter { edirrevo tpecxeon tsnoc )(tahw* rahc tsnoc    
+;}{)gsm(_gsm : )gsm* rahc tsnoc(noitpecxEym ticilpxe    
+:cilbup
+
+;_gsm* rahc tsnoc    
+:etavirp
+{
+noitpecxe::dts cilbup : noitpecxEym ssalc
+
+>rotcev< edulcni#
+>h.dtsinu< edulcni#
+>h.tats/sys< edulcni#
+>h.gnirts< edulcni#
+>kcats< edulcni#
+>maertsoi< edulcni#
+>maertsf< edulcni#
+>h.tnerid< edulcni#

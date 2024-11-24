@@ -1,0 +1,25 @@
+[INFO ] 2024-04-28 23:39:36.095 [main] Calculator - StackException: To execute "POP" command, there must be at least 1 elements on the stack
+[INFO ] 2024-04-28 23:39:39.024 [main] Calculator - PUSH
+[INFO ] 2024-04-28 23:39:40.744 [main] Calculator - SQRT
+[INFO ] 2024-04-28 23:39:44.642 [main] Calculator - HELP
+[INFO ] 2024-04-28 23:46:42.834 [main] Calculator - PUSH10
+[INFO ] 2024-04-28 23:46:45.726 [main] Calculator - CommandException: The "PPUSH" command does not exist
+[INFO ] 2024-04-28 23:46:50.943 [main] Calculator - PUSH20
+[INFO ] 2024-04-28 23:46:52.623 [main] Calculator - /
+[INFO ] 2024-04-28 23:46:55.542 [main] Calculator - PRINT
+[INFO ] 2024-04-28 23:48:26.528 [main] Calculator - PUSH 10
+[INFO ] 2024-04-28 23:48:29.211 [main] Calculator - PUSH 20
+[INFO ] 2024-04-28 23:48:30.217 [main] Calculator - /
+[INFO ] 2024-04-28 23:48:31.597 [main] Calculator - POP
+[INFO ] 2024-04-28 23:48:32.776 [main] Calculator - StackException: To execute "POP" command, there must be at least 1 elements on the stack
+[INFO ] 2024-04-28 23:50:11.548 [main] Calculator - StackException: To execute "POP" command, there must be at least 1 elements on the stack
+[INFO ] 2024-04-28 23:50:14.313 [main] Calculator - HELP
+[INFO ] 2024-04-28 23:50:19.001 [main] Calculator - StackException: To execute "/" command, there must be at least 2 elements on the stack
+[INFO ] 2024-04-28 23:50:26.215 [main] Calculator - PUSH -1
+[INFO ] 2024-04-28 23:50:29.331 [main] Calculator - ArithmeticException: The number under the square root must not be less than zero
+[INFO ] 2024-04-28 23:50:36.454 [main] Calculator - PUSH 101
+[INFO ] 2024-04-28 23:50:37.418 [main] Calculator - StackException: To execute "+" command, there must be at least 2 elements on the stack
+[INFO ] 2024-04-28 23:50:49.740 [main] Calculator - PUSH 1
+[INFO ] 2024-04-28 23:50:50.613 [main] Calculator - +
+[INFO ] 2024-04-28 23:50:53.633 [main] Calculator - SQRT
+[INFO ] 2024-04-28 23:50:57.031 [main] Calculator - PRINT

@@ -1,0 +1,80 @@
+#include "text_data.h"
+
+#include <algorithm>
+#include <fstream>
+#include <iostream>
+
+static bool checkLetter(char c)
+{
+    return ('0' <= c && c <= '9' || 'a' <= c && c <= 'z' || 'A' <= c && c <= 'Z');
+}
+
+static void fillDataFromFileToMap(std::map<std::string, int> *wordsMap, std::ifstream *inFile)
+{
+    std::string s;
+    std::string tmp = "";
+
+    while (!(inFile->eof()))
+    {
+        std::getline(*inFile, s);
+        for (auto c : s)
+        {
+            if (checkLetter(c))
+                tmp += c;
+            else if (tmp != "")
+            {
+                (*wordsMap)[tmp]++;
+                tmp.clear();
+            }
+        }
+    }
+    if (tmp != "")
+    {
+        (*wordsMap)[tmp]++;
+        tmp.clear();
+    }
+}
+
+// static bool compareElemsInWordsList(const void *a, const void *b)
+// {
+//     std::pair<std::string, int> a0 = *((std::pair<std::string, int> *)a);
+//     std::pair<std::string, int> b0 = *((std::pair<std::string, int> *)b);
+//     return (a0 < b0);
+//     // std::pair<std::string, int> a0, b0;
+//     // return (static_cast<std::pair<std::string, int> *>(a).second <= b.second);
+//     // return (std::pair<std::string, int> * (a))
+// }
+
+TextData::TextData(std::string inputFileName)
+{
+    std::ifstream inFile;
+    inFile.open(inputFileName);
+    if (inFile.fail())
+        return;
+
+    std::map<std::string, int> wordsMap;
+    fillDataFromFileToMap(&wordsMap, &inFile);
+
+    for (auto &elem : wordsMap)
+    {
+        wordsList.insert(wordsList.begin(), std::make_pair(elem.second, elem.first));
+    }
+
+    wordsList.sort();
+    wordsList.reverse();
+
+    for (auto &i : wordsList)
+        std::cout << i.first << " " << i.second << "\n";
+
+    inFile.close();
+}
+
+std::list<std::pair<int, std::string>> *TextData::getWordsList()
+{
+    return &wordsList;
+}
+
+int TextData::getWordsNum()
+{
+    return static_cast<int>(wordsList.size());
+}

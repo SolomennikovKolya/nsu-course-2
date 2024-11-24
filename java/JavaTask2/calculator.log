@@ -1,0 +1,18 @@
+[INFO ] 2024-04-29 10:56:00.398 [main] Calculator - PUSH 10
+[INFO ] 2024-04-29 10:56:00.411 [main] Calculator - PRINT
+[INFO ] 2024-04-29 10:56:00.412 [main] Calculator - #
+[INFO ] 2024-04-29 10:56:00.421 [main] Calculator - PUSH 10
+[INFO ] 2024-04-29 10:56:00.421 [main] Calculator - PRINT
+[INFO ] 2024-04-29 10:56:00.422 [main] Calculator - #
+[INFO ] 2024-04-29 10:56:27.812 [main] Calculator - PUSH 10
+[INFO ] 2024-04-29 10:56:27.816 [main] Calculator - PRINT
+[INFO ] 2024-04-29 10:56:27.817 [main] Calculator - #
+[INFO ] 2024-04-29 10:56:27.825 [main] Calculator - PUSH 10
+[INFO ] 2024-04-29 10:56:27.826 [main] Calculator - PRINT
+[INFO ] 2024-04-29 10:56:27.844 [main] Calculator - #
+[INFO ] 2024-04-29 11:05:21.280 [main] Calculator - PUSH 10
+[INFO ] 2024-04-29 11:05:22.421 [main] Calculator - PRINT
+[INFO ] 2024-04-29 11:05:25.989 [main] Calculator - # qweqt
+[INFO ] 2024-04-29 11:05:27.859 [main] Calculator - CommandException: The "#erqwr" command does not exist
+[INFO ] 2024-04-29 11:06:49.971 [main] Calculator - PUSH -1
+[WARN ] 2024-04-29 11:06:52.075 [main] Calculator - ArithmeticException: The number under the square root must not be less than zero

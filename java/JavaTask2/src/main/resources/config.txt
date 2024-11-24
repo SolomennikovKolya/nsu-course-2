@@ -1,0 +1,11 @@
+# ru.nsu.nikvel.calculator.commands.CommentCommand
+POP ru.nsu.nikvel.calculator.commands.PopCommand
+PUSH ru.nsu.nikvel.calculator.commands.PushCommand
++ ru.nsu.nikvel.calculator.commands.PlusCommand
+- ru.nsu.nikvel.calculator.commands.MinusCommand
+* ru.nsu.nikvel.calculator.commands.MultiplyCommand
+/ ru.nsu.nikvel.calculator.commands.DivideCommand
+SQRT ru.nsu.nikvel.calculator.commands.SqrtCommand
+PRINT ru.nsu.nikvel.calculator.commands.PrintCommand
+DEFINE ru.nsu.nikvel.calculator.commands.DefineCommand
+HELP ru.nsu.nikvel.calculator.commands.HelpCommand
